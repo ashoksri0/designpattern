@@ -1,4 +1,4 @@
-package com.creational.builder;
+package com.creational;
 
 import java.util.Objects;
 
